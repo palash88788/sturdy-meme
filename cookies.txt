@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.dreamgains.com	TRUE	/	FALSE	1999999999	PHPSESSID	ul48hgbdbk1at9va6f0udt22g0
+.onlineforex.net	TRUE	/	FALSE	1999999999	__cfduid	ddcf92b3f8a6d0e10fb0282818aaa1f661566222274
+masslive.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+www.japantimes.co.jp	TRUE	/	FALSE	1999999999	AWSALB	DPDt8BZVrdWA79xAVmP5P0/qkxgq7384FKcii3G/262BvVDknR6XD0jSVG8Efsc0Vz7/R2qSwor2z+CUgl35R2OF+eXmXjhxNhiLNd9R7vDt3uLvZ40HakKxsfYa
+.thehindubusinessline.com	TRUE	/	FALSE	1999999999	__cfduid	d037a165c8e52c3ca06f2f92123f8ac0b1566223163
+.suchetadalal.com	TRUE	/	FALSE	1999999999	__cfduid	d471da3280d9f66110ba1fc3bc98e8d361566223173
+.zerodha.com	TRUE	/	FALSE	1999999999	__cfduid	df37967bc0c52809fafe80366d661eeb81566223225
+.cliparthut.com	TRUE	/	FALSE	1999999999	__cfduid	d9af696e8a6dc7acc6119f6a6f34bf9811566224050
+
